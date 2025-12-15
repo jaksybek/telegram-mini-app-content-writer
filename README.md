@@ -10,3 +10,4 @@ Last Updated: 2025-12-15
 - Follow folder-level READMEs for canonical context before editing content.
 - Use the scripts in `scripts/` to regenerate presentation assets directly from Markdown sources to keep slides aligned with their plans.
 # telegram-mini-app-content-writer
+# telegram-mini-app-content-writer
