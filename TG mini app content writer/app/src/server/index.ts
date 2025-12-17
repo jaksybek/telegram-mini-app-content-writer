@@ -3,6 +3,8 @@ import threadsRouter from "./threads";
 
 const app = express();
 
+app.set('trust proxy', 1);
+
 app.use("/api/threads", threadsRouter);
 
 app.use((req, res) => {
